@@ -1,2 +1,6 @@
 # file-spam
-Need to create a piece of code that allows me to select a file location instead of keeping the .py file in the same location as the target location.
+Program spams file in the location of the .py file
+Can select the amount of file to spam
+Can select the file type
+Can select the file name
+If .txt, can select the text that goes into the file
