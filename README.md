@@ -1,6 +1,6 @@
 # file-spam
-Program spams file in the location of the .py file.
-Can select the amount of file to spam.
-Can select the file type.
-Can select the file name.
-If .txt, can select the text that goes into the file.
++ Program spams file in the location of the program's '.py' file.
++ Can select the amount of files to spam.
++ Can change the file type to be spammed. Eg: docx, pub, txt, etc.
++ Can change the file name for each file that is spammed.
++ If '.txt', can choose the text that goes into the file.
