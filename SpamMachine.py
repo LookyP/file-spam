@@ -27,7 +27,7 @@ def mainthingy():
     if userFIRSTinput == '1':
         for line in range(2):
             print()
-        userinput = int(input('            How many spams? '))
+        userinput = int(input('            How many spams? ')) #this option shows up in the command line and you can enter number of spams
         for i in range(userinput):
             f = random.choice(string.ascii_letters)
             d = random.choice(string.ascii_letters)
@@ -37,7 +37,7 @@ def mainthingy():
             G = str(g)+ str(p)+'HAVEfun.txt' #... and here
             file = open(F+G,'a')
             file = open(F+G,'w')
-            file.write("hello") #if the file is .txt, you can choose the text that goes into the file
+            file.write("hello") #if the file is .txt, you can choose the text that goes into the file from here
             file.close()
             time.sleep(0.01)
         total += times + (userinput)
