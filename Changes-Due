@@ -1,0 +1,5 @@
+Looking for a way to specify a file location instead of keeping the '.py' file in the location.
+Currently, the text files are written in the '.py' file location.
+I want the program to create a path to the file location that the user wants.
+If anyone has ideas, please post these to the issues page.
+Thanks.
